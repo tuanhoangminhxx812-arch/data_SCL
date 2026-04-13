@@ -1,0 +1,12 @@
+,STT,Tên Công trình,Mã CT,Kế hoạch,Số Phương án,Ngày Phương án,Giá trị Phương án,Số Dự toán,Ngày Dự toán,Giá trị Dự toán,Số Hợp đồng thiết kế,Ngày Hợp đồng thiết kế,Giá trị Hợp đồng thiết kế,Số Hợp đồng giám sát,Ngày Hợp đồng giám sát,Giá trị Hợp đồng giám sát,Số Hợp đồng xây lắp,Ngày Hợp đồng xây lắp,Giá trị Hợp đồng xây lắp,Giá trị phát sinh,Giá trị VT thừa,Giá trị VTTH,Số Q.định phê duyệt QT công trình,Ngày Q.định phê duyệt QT công trình,Giá trị Q.định phê duyệt QT công trình,Số tiền bằng chữ,Ghi chú,Đơn vị QL
+0,I,"Sửa chữa lớn TSCĐ hệ thống đo đếm trên địa bàn Công ty Điện lực Vũng Tàu năm 2026 - Phần bảo trì TU, TI",VTAD2606001,10000.0,7.0,2026-01-12,13650367159.0,7.0,2026-01-12,13650367159,,,,,,,,,,,,,,,13650367159,Mười ba tỷ sáu trăm năm mươi triệu ba trăm sáu mươi bảy nghìn một trăm năm mươi chín đồng ,Tự thực hiện,Công ty Điện lực Vũng Tàu
+1,1,Chi phí thiết bị,,,,,,,,13000351762,,,,,,,,,,,,,,,13000351762,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+2,1.1,VT A cấp,,,,,,,,11705488281,,,,,,,,,,,,,,,11705488281,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+3,1.2,"Chi phí thí nghiệm, hiệu chỉnh",,,,,,,,1294863481,,,,,,,,,,,,,,,1294863481,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+4,2,Chi phí vật tư,,,,,,,,0,,,,,,,,,,,,,,,0,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+5,3,Chi phí sửa chữa,,,,,,,,0,,,,,,,,,,,,,,,0,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+6,4,Chi phí khác,,,,,,,,0,,,,,,,,,,,,,,,0,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+7,5,Chi phí dự phòng,,,,,,,,650017588,,,,,,,,,,,,,,,650017588,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+8,6,VTTH,,,,,,,,2191,,,,,,,,,,,,,,,2191,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+9,7,Giá trị trước thuế,,,,,,,,13650367159,,,,,,,,,,,,,,,13650367159,,Tự thực hiện,Công ty Điện lực Vũng Tàu
+10,8,Thuế GTGT,,,,,,,,1092029373,,,,,,,,,,,,,,,1092029373,,Tự thực hiện,Công ty Điện lực Vũng Tàu

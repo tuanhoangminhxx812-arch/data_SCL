@@ -1,0 +1,30 @@
+5: from docx import Document as DocxDocument
+6: from docx.shared import Pt, Cm, Inches, RGBColor
+7: from docx.enum.text import WD_ALIGN_PARAGRAPH
+8: from docx.enum.table import WD_TABLE_ALIGNMENT
+77: words = []
+84: words.append(f"{decode_3(block, full)} {unit}".strip())
+86: res = " ".join(reversed(words)).strip()
+107: tab1, tab2, tab3 = st.tabs(["📝 Nhập liệu", "📊 Báo cáo", "📄 Bảng thuyết minh quyết toán"])
+244: st.write("Thêm các dòng cho hạng mục con. Cột 'Tên Hạng mục' sẽ được tự động map vào 'Tên Công trình' trong Excel theo cấu trúc mẫu.")
+523: wb = openpyxl.load_workbook('Mẫu 04.xlsx')
+525: st.error(f"Không thể mở file Mẫu 04.xlsx. Vui lòng kiểm tra lại file. Lỗi: {e}")
+602: wb = openpyxl.load_workbook('Mẫu 04.xlsx')
+604: st.error(f"Không thể mở file Mẫu 04.xlsx. Lỗi: {e}")
+643: st.header("📄 Bảng thuyết minh quyết toán")
+652: selected_ct_tab3 = st.selectbox("Chọn Công trình để xuất Thuyết minh QT:", ["-- Chọn --"] + list_ct_tab3, key="tmqt_select")
+733: if st.button("📥 Xuất file Word - Bảng thuyết minh quyết toán", type="primary", key="btn_tmqt"):
+735: doc = DocxDocument()
+790: from docx.oxml.ns import qn
+828: run = p_title.add_run("BẢN THUYẾT MINH QUYẾT TOÁN")
+971: # Lưu file Word vào BytesIO
+972: output_docx = BytesIO()
+973: doc.save(output_docx)
+974: docx_data = output_docx.getvalue()
+978: label="📥 Tải xuống file Word",
+979: data=docx_data,
+980: file_name=f"Thuyet_minh_QT_{safe_name}.docx",
+981: mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+982: key="download_tmqt"
+984: st.success("✅ Đã tạo file Word thành công! Nhấn nút tải xuống bên trên.")
+987: st.error(f"Lỗi khi tạo file Word: {e}")

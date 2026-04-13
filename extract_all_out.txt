@@ -1,0 +1,224 @@
+
+
+--- FILE: Mẫu TMQT.docx ---
+BẢN THUYẾT MINH QUYẾT TOÁN
+
+- Tên danh mục:
+- Giá trị vốn kế hoạch: ...........  tr.đồng
+- Thuộc kế hoạch vốn sửa chữa lớn năm 2026
+- Hình thức tự làm hay thuê ngoài:
+- Tên đơn vị thi công: 
+- Giá trị dự toán được duyệt:................. đồng
+- Thời gian khởi công:
+- Thời gian hoàn thành:
+- Giá trị quyết toán danh mục hoàn thành: .............. đồng
+- Khối lượng công việc chủ yếu đã tiến hành (thay thế, sửa chữa những bộ phận nào của TSCĐ).
+- Các căn cứ về chế độ để lập quyết toán 
++ ..........
++ ..........
+- Phân tích các nhân tố tăng giảm so với dự toán được duyệt.
+- Đánh giá hiệu quả của công việc sửa chữa lớn (hiệu quả của việc thay thế các thiết bị so với sửa chữa các thiết bị đã hư hỏng và hiệu quả khôi phục tính năng của tài sản cố định nói chung sau khi sửa chữa.
+- Các kiến nghị (nếu có).
+
+GIÁM ĐỐC			                            
+Nơi nhận:
+- Như trên;
+- Lưu ....         
+                                              
+             TỔNG CÔNG TY            
+ ĐIỆN LỰC TP HỒ CHÍ MINH                   
+CÔNG TY ĐIỆN LỰC VŨNG TÀU
+
+      Số:                                                  
+
+       CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+                      Vũng Tàu, ngày       tháng      năm 2026 
+
+
+
+--- FILE: Mẫu QĐ QTCT.docx ---
+TỔNG CÔNG TY                                  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ĐIỆN LỰC TP HỒ CHÍ MINH                                      Độc lập  -  Tự do  -  Hạnh phúc            
+         ĐƠN VỊ:...............                                            
+                
+           Số:          /QĐ-PC...                                Thành phố Hồ Chí Minh, ngày ….tháng……năm…
+
+QUYẾT ĐỊNH
+V/v phê duyệt quyết toán công trình sửa chữa lớn hoàn thành
+ 
+Tên công trình: ........................................................................................... 
+Chủ đầu tư:  Công ty Điện lực Vũng Tàu
+Kế hoạch vốn năm:  2026
+Nguồn vốn :  Sửa chữa lớn  
+
+GIÁM ĐỐC CÔNG TY ĐIỆN LỰC VŨNG TÀU
+
+Căn cứ Quyết định số……../QĐ-EVNHCMC ngày…..tháng…..năm…..của Tổng Giám đốc Tổng công ty Điện lực TP.HCM về việc ban hành quy chế thực hiện công tác sửa chữa lớn trong Tổng công ty Điện lực TPHCM;
+Căn cứ quyết định số……../QĐ-EVNHCMC ngày ..... tháng …. năm…. về việc giao kế hoạch sửa chữa lớn năm…..;
+Căn cứ quyết định số…../QĐ-PC… ngày…tháng…năm…về việc giao danh mục kế hoạch sửa chữa lớn năm….;
+Căn cứ hồ sơ quyết toán công trình: ……..... số .... ngày ... tháng .. năm...;
+Căn cứ báo cáo thẩm tra quyết toán số ........ngày .../.../... của Tổ thẩm tra duyệt quyết toán công trình sửa chữa lớn Công ty Điện lực .....;      
+QUYẾT ĐỊNH:
+Điều 1: Phê duyệt quyết toán công trình: ... với tổng giá trị: ... đồng (Bằng chữ ........)
+Trong đó: 
+Chi phí thiết bị:…………….. đồng
+Chi phí xây dựng:..................... đồng 
+KTCB khác:..................... đồng
+Điều 2: Nguồn vốn thực hiện công trình: Sửa chữa lớn của Công ty Điện lực (Trung Tâm)........................................................
+Điều 3: Các Ông (bà) Trưởng Phòng KT, KHVT, QLĐT, VP,… Công ty Điện lực ……. đơn vị thi công và các đơn vị liên quan căn cứ quyết định thi hành./.
+
+
+
+ Nơi nhận:		                                                              
+-  Như điều 3;	
+-  P.TCKT, KT, KH TCT,…;	     	
+-  Lưu VP, P.TCKT; NVA.( )
+
+NGƯỜI ĐỨNG ĐẦU/NGƯỜI ĐƯỢC ỦY QUYỀN
+                              (ký tên đóng dấu)
+
+
+
+--- FILE: Mẫu phiếu báo cáo thẩm tra QT.docx ---
+           TỔNG CÔNG TY                        CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT 
+ ĐIỆN LỰC TP HỒ CHÍ MINH         	 Độc lập - Tự do - Hạnh phúc
+CÔNG TY ĐIỆN LỰC VŨNG TÀU                                              
+	
+           Số:        /BC-…....                            Vũng Tàu, ngày ….tháng……năm 2026
+
+
+BÁO CÁO THẨM TRA QUYẾT TOÁN
+ CÔNG TRÌNH SỬA CHỮA LỚN
+
+Căn cứ hồ sơ quyết toán công trình:
+Tổ thẩm tra quyết toán công trình sửa chữa lớn Công ty Điện lực Vũng Tàu thẩm tra hồ sơ quyết toán công trình với kết quả như sau:           
+I/- Nội dung thẩm tra:
+Tên công trình SCL:
+Đơn vị quản lý:
+Phương thức chọn thầu thực hiện: 
+Hợp đồng số: 
+Đơn vị thực hiện:
+Nội dung cụ thể:
+	1/ Phần xây dựng:
+	- Số dự toán:	                   
+	- Số quyết toán: 
+	- Số thẩm tra:  
+          - Số chênh lệch: 
+         2/  Phần thiết bị: 
+- Số dự toán: 
+- Số quyết toán: 
+- Số thẩm tra:
+- Số chênh lệch:	         
+         3/ Phần kiến thiết cơ bản khác: 
+ 		      
+II/ Kết luận:
+Sau khi xem xét thẩm tra hồ sơ, tổ thẩm tra quyết toán chấp thuận tổng gía trị quyết toán công trình nêu trên: ............. đồng
+Tổng số: .............. đồng	
+Xây dựng:  .................... đồng
+Thiết bị:   ...................... đồng
+ KTCB khác: ................. đồng
+Kính trình và đề nghị Gíam đốc phê duyệt.
+
+                             THÀNH VIÊN TỔ THẨM TRA QUYẾT TOÁN
+Bà Hà Thị Mai Hiên              			Kế Toán Trưởng
+Ông Nguyên Đức Minh			TP KTAT
+Ông Nguyễn Mạnh Hiệp 			TP KHVT
+Ông Nguyễn Văn Quyến			TP QLĐT
+ 
+                                                  
+                                                     TỔ TRƯỞNG TỔ THẨM TRA 
+					PGĐ Kỹ Thuật
+
+
+
+Ghi chú: thành viên tham gia theo phân công của từng đơn vị cho từng loại công trình SCL (VD: Kiến trúc, công xa, thiết bị, lưới điện,…).
+
+Nội dung
+Dự toán được duyệt
+Giá trị quyết toán
+Số thẩm tra
+Chênh lệch
+Chi phí thiết kế
+
+
+
+
+Chi phí thẩm định
+
+
+
+
+Chi phí khác
+                                    
+                                
+
+
+Chi phí dự phòng
+
+
+
+
+Tổng cộng
+
+
+
+
+
+
+--- FILE: Mẫu phiếu thẩm tra QT.docx ---
+          
+Tên công trình SCL:
+Mã công trình: 
+Đơn vị quản lý:
+Phương thức chọn thầu thực hiện: 
+Tự làm
+Thuê ngoài (hợp đồng số .........ngày ......)
+Đơn vị thực hiện:   
+ Nội dung kiểm tra:
+Khối lượng, chất lượng công việc đã tiến hành.
+Khối lượng vật tư, thiết bị, phụ tùng thực tế sử dụng và thu hồi.
+Tính chất sử dụng nguồn vốn SCL
+Danh mục và giá trị SCL trong kế hoạch đã giao với thực tế thực hiện, hồ sơ kế hoạch, kế hoạch vốn.
+Tính hợp lệ của thủ tục giao thầu tư vấn, xây lắp.
+Đơn giá định mức xây dựng, theo dự toán được duyệt, thẩm tra chi phí nhân công, máy thi công trong quyết toán.
+Kết quả kiểm tra:
+................................................................................................................
+................................................................................................................
+................................................................................................................
+................................................................................................................ 
+
+Ghi chú: nhân viên thẩm tra ghi phần nội dung được phân công thẩm tra.
+
+              TỔNG CÔNG TY 
+   ĐIỆN LỰC TP HỒ CHÍ MINH
+CÔNG TY ĐIỆN LỰC VŨNG TÀU
+__________________
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+________________________
+	
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+________________________
+	
+
+Vũng Tàu, ngày ….tháng……năm 2026
+Vũng Tàu, ngày ….tháng……năm 2026
+PHIẾU THẨM TRA QUYẾT TOÁN
+CÔNG TRÌNH SỬA CHỮA LỚN
+PHIẾU THẨM TRA QUYẾT TOÁN
+CÔNG TRÌNH SỬA CHỮA LỚN
+                     Trưởng Phòng
+
+
+
+ Nhân viên thẩm tra
+
+
+
+
+
+

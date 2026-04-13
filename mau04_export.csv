@@ -1,0 +1,53 @@
+TỔNG CÔNG TY,Unnamed: 1,Unnamed: 2,CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+ĐIỆN LỰC TP HỒ CHÍ MINH TNHH,,,Độc lập - Tự do - Hạnh phúc,,,,
+CÔNG TY ĐIỆN LỰC VŨNG TÀU,,,,,,,
+,,,,,,,
+,,,"                                   Vũng Tàu, ngày       tháng       năm 2026",,,,
+,,,,,,,
+BẢNG TỔNG HỢP QUYẾT TOÁN KINH PHÍ SỬA CHỮA LỚN,,,,,,,
+Công trình:,,,"Sửa chữa lớn TSCĐ hệ thống đo đếm trên địa bàn Công ty Điện lực Vũng Tàu năm 2026 - Phần bảo trì TU, TI",,,,
+,,,,,,,
+STT,KHOẢN MỤC CHI PHÍ,Cách tính,DỰ TOÁN,DỰ TOÁN PHÁT SINH,DỰ TOÁN ĐƯỢC DUYỆT,GIÁ TRỊ QUYẾT TOÁN,CHÊNH LỆCH
+A,"CHI PHÍ VẬT TƯ, THIẾT BỊ (sau thuế)",GTB + GVT,13000351762,0,13000351762,0,-13000351762
+1,Chi phí thiết bị,GNK + GTN + GLĐ,13000351762,,13000351762,0,-13000351762
+1.1,Thiết bị nhập khẩu,,0,0,0,,0
+1.2,VT A cấp,Bảng 5,11705488281,0,11705488281,,-11705488281
+1.3,"Chi phí tháo dỡ, lắp đặt",,,0,0,,0
+1.4,"Chi phí thí nghiệm, hiệu chỉnh",Bảng TH-TNHC,1294863481,0,1294863481,,-1294863481
+2,Chi phí vật tư,,0,0,0,0,0
+3,Thuế GTGT,,1300035176,,1300035176,0,-1300035176
+B,CHI PHÍ SỬA CHỮA,G + GTGT,0,0,0,0,0
+1,Chi phí vật liệu,VL1 + VL2 + VL3 + VL4,,,0,,0
+1.1,Vật liệu phần không áp dụng đơn giá XDCB,,,,0,,0
+1.2,Vật liệu phần áp dụng đơn giá XDCB,,,,0,,0
+1.3,Chênh lệch giá vật liệu phần áp dụng đơn giá XDCB,,,,,,
+1.4,Vật liệu phụ trong SCL thiết bị,,,0,0,,0
+2,Chi phí nhân công,NC1 + NC2,,,,,
+2.1,Chi phí nhân công phần không áp dụng đơn giá XDCB,,,,,,
+2.2,Chi phí nhân công phần áp dụng đơn giá XDCB,,,,,,
+3,Chi phí máy thi công,M1 + M2,,,,,
+3.1,Chi phí máy thi công phần không áp dụng đơn giá XDCB,,,,,,
+3.2,Chi phí máy thi công phần áp dụng đơn giá XDCB,,,,,,
+4,"Chi phí làm đêm, làm thêm giờ (nếu có, chỉ tính cho KL công việc tự thực hiện)",,,,,,
+5,Chi phí chung,KL công việc ĐL tự thực hiện: Không tính; KL công việc thuê ngoài: 55%NC,,,,,
+6,Thu nhập chịu thuế tính trước,KL công việc ĐL tự thực hiện: Không tính; KL công việc thuê ngoài: 6%*(VL+NC+MTC+C),,,,,
+7,Giá trị sửa chữa trước thuế,(VL + NC + M + C + TL + NCCĐ),,,,,
+8,Thuế GTGT,*  KL công việc tự thực hiện: VL x TGTGT (KL công việc thuê ngoài: G x TGTGT),,,,,
+C,CHI PHÍ KHÁC (sau thuế),K1 + K2 + K3 +…..,0,,0,0,0
+1,Chi phí giám sát thi công xây dựng ,Theo bảng CPK,,,0,,0
+2,Chi phí giám sát lắp đặt thiết bị,Theo bảng CPK,,,0,,0
+3,Chi phí bảo hiểm công trình,Theo bảng CPK,,,0,,0
+4,Chi phí thẩm tra - phê duyệt quyết toán,Theo bảng CPK,,,0,,0
+5,Vận chuyển VTTB A cấp đến công trường,,,,0,,0
+6,Thuế GTGT,,,,0,,0
+*,DỰ TOÁN CHƯA CÓ DỰ PHÒNG(SAU THUẾ) ,,14300386938,,14300386938,,-14300386938
+*,Dự toán chưa có dự phòng trước thuế,,13000351762,,13000351762,,-13000351762
+*,Thuế GTGT,,1300035176,,1300035176,,-1300035176
+D,CHI PHÍ DỰ PHÒNG,,650017588,,650017588,,-650017588
+E,Tổng giá trị trước thuế,,13650367159,,13650367159,0,-13650367159
+1,Tổng giá trị thuế GTGT,,1092029373,,1092029373,0,-1092029373
+2,Tổng giá trị sau thuế,,14742396532,,14742396532,0,-14742396532
+F,GIÁ TRỊ VẬT TƯ THU HỒI,,2191,,2191,,-2191
+,CHI PHÍ SCL,,13650367159,,13650367159,0,-13650367159
+,,,,,,,
+           Người lập biểu,,,          KẾ TOÁN TRƯỞNG,,,,    GIÁM ĐỐC

@@ -1,0 +1,11 @@
+STT: I, TEN: Sửa chữa lớn TSCĐ hệ thống đo đếm trên địa bàn Công ty Điện lực Vũng Tàu năm 2026 - Phần bảo trì TU, TI
+STT: 1, TEN: Chi phí thiết bị
+STT: 1.1, TEN: VT A cấp
+STT: 1.2, TEN: Chi phí thí nghiệm, hiệu chỉnh
+STT: 2, TEN: Chi phí vật tư
+STT: 3, TEN: Chi phí sửa chữa
+STT: 4, TEN: Chi phí khác
+STT: 5, TEN: Chi phí dự phòng
+STT: 6, TEN: VTTH
+STT: 7, TEN: Giá trị trước thuế
+STT: 8, TEN: Thuế GTGT
